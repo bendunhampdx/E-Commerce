@@ -58,3 +58,7 @@ GraphQL
 2:30: Restart project using NPM instead of Yarn due to SASS conflicts. 
 
 4:30: Stopping for the day. New REPO set up with RESEARCH.MD file included 
+
+12/10/21
+
+Begin work for the day
