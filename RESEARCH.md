@@ -42,7 +42,7 @@ GraphQL
 
 12:30-1:30- Lunch. Continue tutorials 
 
-2:15pm: Fiish section 2 on REACT key concepts: Birth of React.js, declaritive vs imperative, component architexture, one way data flow, UI library, How to be a great React Developer
+2:15pm: Finish section 2 on REACT key concepts: Birth of React.js, declaritive vs imperative, component architexture, one way data flow, UI library, How to be a great React Developer
 
 3:30: Tutorial is going over react basics
 
@@ -66,3 +66,5 @@ Begin work for the day
 11:30: research SASS
 
 1:50: updating compnents and styles using SASS
+
+2:50: Research Reat Router
