@@ -62,3 +62,5 @@ GraphQL
 12/10/21
 
 Begin work for the day
+
+11:30: research SASS
