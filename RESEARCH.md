@@ -64,3 +64,5 @@ GraphQL
 Begin work for the day
 
 11:30: research SASS
+
+1:50: updating compnents and styles using SASS
