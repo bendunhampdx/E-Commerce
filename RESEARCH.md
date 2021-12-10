@@ -68,3 +68,5 @@ Begin work for the day
 1:50: updating compnents and styles using SASS
 
 2:50: Research Reat Router
+
+3:50: experiement with react router
