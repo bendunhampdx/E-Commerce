@@ -70,3 +70,5 @@ Begin work for the day
 2:50: Research Reat Router
 
 3:50: experiement with react router
+
+4:10 Done workign for the day
