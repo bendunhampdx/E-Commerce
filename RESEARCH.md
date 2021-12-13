@@ -78,3 +78,5 @@ Begin work for the day
 10:45am: begin work
 
 1:00pm Fix problems with react-routes versioning w/switch
+
+2:30: add shop components and edit routing
