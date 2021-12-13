@@ -72,3 +72,9 @@ Begin work for the day
 3:50: experiement with react router
 
 4:10 Done workign for the day
+
+12/13/21
+
+10:45am: begin work
+
+1:00pm Fix problems with react-routes versioning w/switch
