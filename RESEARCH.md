@@ -84,3 +84,6 @@ Begin work for the day
 12/14/21
 
 9:45am: begin work on capstone
+
+10:00am: add header and styling
+
