@@ -101,3 +101,5 @@ to:
 import firebase from 'firebase/compat/app';
 import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
+
+2:30pm: add firebase
