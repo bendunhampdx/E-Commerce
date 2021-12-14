@@ -65,7 +65,7 @@ Begin work for the day
 
 11:30: research SASS
 
-1:50: updating compnents and styles using SASS
+1:50: updating components and styles using SASS
 
 2:50: Research Reat Router
 
@@ -87,4 +87,17 @@ Begin work for the day
 
 10:00am: add header and styling
 
-11:00am: add sign in form and begon styling
+11:00am: add sign in form and begin styling
+
+
+FIREBASE: version info
+So from:
+
+import firebase from 'firebase/app';
+import 'firebase/firestore';
+import 'firebase/auth';
+to:
+
+import firebase from 'firebase/compat/app';
+import 'firebase/compat/firestore';
+import 'firebase/compat/auth';
