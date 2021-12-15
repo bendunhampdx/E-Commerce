@@ -114,4 +114,6 @@ import 'firebase/compat/auth';
 
 11:44am: finish sign in and sign up 
 
+12:00pm begin implementing Redux
+
 
