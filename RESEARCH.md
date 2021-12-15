@@ -116,4 +116,6 @@ import 'firebase/compat/auth';
 
 12:00pm begin implementing Redux
 
+3:45pm: added redux, user reducer ad userActions to header and app components
+
 
