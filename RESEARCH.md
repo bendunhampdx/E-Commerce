@@ -112,4 +112,6 @@ import 'firebase/compat/auth';
 
 11:00am: adding functionality for database in firebase
 
+11:44am: finish sign in and sign up 
+
 
