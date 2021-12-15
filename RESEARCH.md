@@ -103,3 +103,13 @@ import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
 
 2:30pm: add firebase
+
+4:30pm: done for the day
+
+12/15/21
+
+9:00am: begin for the day
+
+11:00am: adding functionality for database in firebase
+
+
