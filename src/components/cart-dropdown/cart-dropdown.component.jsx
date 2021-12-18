@@ -2,10 +2,12 @@ import React from "react";
 import { connect } from "react-redux";
 import CustomButton from "../custom-button/custom-button.component";
 import CartItem from "../cart-item/cart-item.component";
+import { withRouter } from "react-router-dom";
 import './cart-dropdown.styles.scss';
 import { selectCartItems } from "../../redux/cart/cart.selectors";
+import { createStructuredSelector } from "reselect";
 
-const CartDropdown = ({cartItems}) => (
+const CartDropdown = ({cartItems, history}) => (
     <div className='cart-dropdown'>
       <div className='cart-items'> 
       {
@@ -18,12 +20,13 @@ const CartDropdown = ({cartItems}) => (
         )
       }
       </div>
-      <CustomButton>Go to checkout</CustomButton>
+      <CustomButton onClick={() => history.push('/checkout')}>Go to checkout
+      </CustomButton>
     </div>
 );
 
-const mapStateToProps = state => ({
-  cartItems: selectCartItems(state)
+const mapStateToProps = createStructuredSelector({
+  cartItems: selectCartItems
 });
 
-export default connect(mapStateToProps)(CartDropdown);
+export default withRouter(connect(mapStateToProps)(CartDropdown));
