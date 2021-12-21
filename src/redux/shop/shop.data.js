@@ -1,69 +1,69 @@
 const SHOP_DATA = {
-  hats: {
+  guitars: {
     id: 1,
-    title: 'Hats',
-    routeName: 'hats',
+    title: 'Guitars',
+    routeName: 'guitars',
     items: [
       {
         id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-        price: 25
+        name: 'Fender Jaguar: Kurt Cobain Signature',
+        imageUrl: 'https://m.media-amazon.com/images/I/91Tp2XM8quL._AC_SL1500_.jpg',
+        price: 1200
       },
       {
         id: 2,
-        name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-        price: 18
+        name: 'Fender Stratocaster: Tom Morello Signature',
+        imageUrl: 'https://cdn.mos.cms.futurecdn.net/q27vL2MUXz3YVAAHFdNYgF-970-80.jpg.webp',
+        price: 1200
       },
       {
         id: 3,
-        name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-        price: 35
+        name: 'Fender Stratocaster: Limited Edition: Sonic Blue',
+        imageUrl: 'https://davesguitar.com/wp-content/uploads/2020/11/116780.jpg',
+        price: 1000
       },
       {
         id: 4,
-        name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
-        price: 25
+        name: 'Fender Jag-Stang: Designed by: Kurt Cobain',
+        imageUrl: 'https://www.fmicassets.com/Damroot/ZoomJpg/10001/0141030372_fen_ins_cbr_1_nr.jpg',
+        price: 2200
       },
       {
         id: 5,
-        name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-        price: 18
+        name: 'Fender: Telecaster: Joe Strummer Signature',
+        imageUrl: 'https://images.reverb.com/image/upload/s--3FuVmwUx--/f_auto,t_large/v1639766287/yy2mxhumzpysp7yitqqv.jpg',
+        price: 1349
       },
       {
         id: 6,
-        name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
-        price: 14
+        name: 'Fender: Joe Strummer Signature Camp-Fire Acoustic',
+        imageUrl: 'https://cdn.mos.cms.futurecdn.net/Tj9wQNXMSZ6pQKeaHcEMJQ-970-80.jpg.webp',
+        price: 599
       },
       {
         id: 7,
-        name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-        price: 18
+        name: 'Earnie Ball Music Man: St. Vincent Signature',
+        imageUrl: 'https://s3-us-west-2.amazonaws.com/static.music-man.com/website/images/instruments/slides-1/slide-76.jpg?1526921638',
+        price: 2799
       },
       {
         id: 8,
-        name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-        price: 14
+        name: 'Gibson Custom 1957 Les Paul Custom',
+        imageUrl: 'https://www.ginoguitars.com/libimg2/products/1100x734/1/87/Gibson-Custom-1957-Les-Paul-Custom-Reissue-Black-Beauty-2-Pickup-Extra-Heavy-Aged-289-VE_01.jpg',
+        price: 8500
       },
       {
         id: 9,
-        name: 'Blue Snapback',
-        imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-        price: 16
+        name: 'Gibson SG Standard',
+        imageUrl: 'https://www.keymusic.com/contentassets/2094350680f949efae0e448c2e787904/gibson-sg.jpg',
+        price: 1000
       }
     ]
   },
-  sneakers: {
+  pedals: {
     id: 2,
-    title: 'Sneakers',
-    routeName: 'sneakers',
+    title: 'Pedals',
+    routeName: 'pedals',
     items: [
       {
         id: 10,
@@ -115,10 +115,10 @@ const SHOP_DATA = {
       }
     ]
   },
-  jackets: {
+  accessories: {
     id: 3,
-    title: 'Jackets',
-    routeName: 'jackets',
+    title: 'Accessories',
+    routeName: 'accessories',
     items: [
       {
         id: 18,
@@ -152,10 +152,10 @@ const SHOP_DATA = {
       }
     ]
   },
-  womens: {
+  bass: {
     id: 4,
-    title: 'Womens',
-    routeName: 'womens',
+    title: 'Bass',
+    routeName: 'bass',
     items: [
       {
         id: 23,
@@ -201,10 +201,10 @@ const SHOP_DATA = {
       }
     ]
   },
-  mens: {
+  amps: {
     id: 5,
-    title: 'Mens',
-    routeName: 'mens',
+    title: 'Amps',
+    routeName: 'amps',
     items: [
       {
         id: 30,
