@@ -122,3 +122,5 @@ import 'firebase/compat/auth';
 12/17/21
 
 Begin for the day
+
+12/21/21: researching CSS in JS
