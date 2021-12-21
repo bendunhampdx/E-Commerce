@@ -220,27 +220,27 @@ const SHOP_DATA = {
       },
       {
         id: 32,
-        name: 'Black & White Longsleeve',
-        imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
-        price: 25
+        name: 'Marshall DSL100HR 100W Tube Guitar Amp Head',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/DSL100HR-100W-Tube-Guitar-Amp-Head/K64627000000000-00-500x500.jpg',
+        price: 1000
       },
       {
         id: 33,
-        name: 'Pink T-shirt',
-        imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-        price: 25
+        name: 'Marshall DSL40CR 40W 1X12 Tube Guitar Combo Amp ',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/DSL40CR-40W-1x12-Tube-Guitar-Combo-Amp/K64638000000000-00-500x500.jpg',
+        price: 850
       },
       {
         id: 34,
-        name: 'Jean Long Sleeve',
-        imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
-        price: 40
+        name: 'Fender: Rumble 500 2X10 500W Bass Combo Amp',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Rumble-500-2x10-500W-Bass-Combo-Amp/J06160000000000-00-500x500.jpg',
+        price: 650
       },
       {
         id: 35,
-        name: 'Burgundy T-shirt',
-        imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
-        price: 25
+        name: 'Fender 1957 Custom Twin 40W 2X12 Tube Guitar Amp',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/57-Custom-Twin-40W-2x12-Tube-Guitar-Amp-Lacquered-Tweed/J41134000001000-00-500x500.jpg',
+        price: 3300
       }
     ]
   }
