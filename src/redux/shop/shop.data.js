@@ -7,56 +7,56 @@ const SHOP_DATA = {
       {
         id: 1,
         name: 'Fender Jaguar: Kurt Cobain Signature',
-        imageUrl: 'https://m.media-amazon.com/images/I/91Tp2XM8quL._AC_SL1500_.jpg',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Kurt-Cobain-Jaguar-NOS-Electric-Guitar-3-Color-Sunburst/J05499000001000-00-500x500.jpg',
         price: 1200
       },
       {
         id: 2,
         name: 'Fender Stratocaster: Tom Morello Signature',
-        imageUrl: 'https://cdn.mos.cms.futurecdn.net/q27vL2MUXz3YVAAHFdNYgF-970-80.jpg.webp',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Tom-Morello-Soul-Power-Stratocaster-Electric-Guitar-Black/L72232000001000-00-500x500.jpg',
         price: 1200
       },
       {
         id: 3,
         name: 'Fender Stratocaster: Limited Edition: Sonic Blue',
-        imageUrl: 'https://davesguitar.com/wp-content/uploads/2020/11/116780.jpg',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Yngwie-Malmsteen-Signature-Series-Stratocaster-NOS-Maple-Fingerboard-Electric-Guitar-Sonic-Blue/L48913000002000-00-500x500.jpg',
         price: 1000
       },
       {
         id: 4,
         name: 'Fender Jag-Stang: Designed by: Kurt Cobain',
-        imageUrl: 'https://www.fmicassets.com/Damroot/ZoomJpg/10001/0141030372_fen_ins_cbr_1_nr.jpg',
-        price: 2200
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Kurt-Cobain-Jag-Stang-Rosewood-Fingerboard-Electric-Guitar-Sonic-Blue/L84251000002000-00-500x500.jpg',
+        price: 1200
       },
       {
         id: 5,
         name: 'Fender: Telecaster: Joe Strummer Signature',
-        imageUrl: 'https://images.reverb.com/image/upload/s--3FuVmwUx--/f_auto,t_large/v1639766287/yy2mxhumzpysp7yitqqv.jpg',
-        price: 1349
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Limited-Edition-Joe-Strummer-Esquire-Relic-Rosewood-Fingerboard-Electric-Guitar-Olympic-White/L85182000001000-00-500x500.jpg',
+        price: 15000
       },
       {
         id: 6,
         name: 'Fender: Joe Strummer Signature Camp-Fire Acoustic',
-        imageUrl: 'https://cdn.mos.cms.futurecdn.net/Tj9wQNXMSZ6pQKeaHcEMJQ-970-80.jpg.webp',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Joe-Strummer-Campfire-Acoustic-Electric-Guitar-Matte-Black/L75969000001000-00-500x500.jpg',
         price: 599
       },
       {
         id: 7,
-        name: 'Earnie Ball Music Man: St. Vincent Signature',
-        imageUrl: 'https://s3-us-west-2.amazonaws.com/static.music-man.com/website/images/instruments/slides-1/slide-76.jpg?1526921638',
+        name: 'Ernie Ball Music Man: St. Vincent Signature',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/St.-Vincent-HH-Rosewood-Fingerboard-Electric-Guitar-Blue-Dawn/L21272000001000-00-500x500.jpg',
         price: 2799
       },
       {
         id: 8,
         name: 'Gibson Custom 1957 Les Paul Custom',
-        imageUrl: 'https://www.ginoguitars.com/libimg2/products/1100x734/1/87/Gibson-Custom-1957-Les-Paul-Custom-Reissue-Black-Beauty-2-Pickup-Extra-Heavy-Aged-289-VE_01.jpg',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Murphy-Lab-1957-Les-Paul-Custom-Reissue-2-Pickup-Ultra-Light-Aged-Electric-Gutiar-Ebony/L80295000001000-00-500x500.jpg',
         price: 8500
       },
       {
         id: 9,
         name: 'Gibson SG Standard',
-        imageUrl: 'https://www.keymusic.com/contentassets/2094350680f949efae0e448c2e787904/gibson-sg.jpg',
-        price: 1000
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/SG-Standard-Dark-Limited-Edition-Electric-Guitar-Cherry/L76594000001000-00-500x500.jpg',
+        price: 1600
       }
     ]
   },
@@ -67,51 +67,51 @@ const SHOP_DATA = {
     items: [
       {
         id: 10,
-        name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
-        price: 220
+        name: 'Dunlop JH1D: jimi Hendrix Signature Wah',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/JH1D-Jimi-Hendrix-Signature-Wah-Pedal/151067000000000-00-500x500.jpg',
+        price: 139
       },
       {
         id: 11,
-        name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
-        price: 280
+        name: 'BOSS TU-3: Chromatic Tuner',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/712517000000000-01-500x500.jpg',
+        price: 105
       },
       {
         id: 12,
-        name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
-        price: 110
+        name: 'BOSS DD-8: Delay',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/DD-8-Digital-Delay-Effects-Pedal/L70091000000000-00-500x500.jpg',
+        price: 169
       },
       {
         id: 13,
-        name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        name: 'Fulltone: OCD Overdrive',
+        imageUrl: 'https://cdn.shopify.com/s/files/1/0758/4003/products/fulltone_ocd_v2_pedal_1_2048x2048.jpg?v=1568138822',
         price: 160
       },
       {
         id: 14,
-        name: 'Nike Red High Tops',
-        imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+        name: 'BOSS: DS-2: Turbo Distortion',
+        imageUrl: 'https://www.proaudiostar.com/pub/media/catalog/product/cache/fb4090e927ad603e2ac2ea122a8aba57/6/8/68cea334c87878a986e74500d3bb88ede17a9958_ds2.jpg',
         price: 160
       },
       {
         id: 15,
-        name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+        name: 'BOSS: RC-3: Loop Station',
+        imageUrl: 'https://cdn.shopify.com/s/files/1/0300/4173/products/618BOSSRC3_1_480x288.jpg?v=1571708445',
         price: 160
       },
       {
         id: 16,
-        name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+        name: 'Death By Audio: Interstellar Overdriver',
+        imageUrl: 'https://cdn.shopify.com/s/files/1/0788/1755/products/a71d36b5-dd1a-40d1-a49f-519d23a8301e.jpg?v=1625698542',
         price: 190
       },
       {
         id: 17,
-        name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-        price: 200
+        name: 'BOSS: RV-6: Reverb',
+        imageUrl: 'https://images.reverb.com/image/upload/s--9o7IEkqv--/t_card-square/v1440811834/rzrizxr5fcxrysfwutsp.jpg',
+        price: 160
       }
     ]
   },
@@ -122,33 +122,33 @@ const SHOP_DATA = {
     items: [
       {
         id: 18,
-        name: 'Black Jean Shearling',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-        price: 125
+        name: 'Martin Extendable Strap',
+        imageUrl: 'https://static.keymusic.com/products/243039/340/martin-extendable-slim-style-leather-guitar-strap-black.jpg',
+        price: 45
       },
       {
         id: 19,
-        name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
-        price: 90
+        name: 'Fender Pick Assortment',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/351-Premium-Celluloid-Guitar-Picks-12-Pack-Green-Moto-Medium/110556000003118-00-500x500.jpg',
+        price: 15
       },
       {
         id: 20,
-        name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
-        price: 90
+        name: 'Guitar Strings: DAddario 10-46',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/EXL110-Nickel-Light-Electric-Guitar-Strings-3-Pack/H71088000000000-00-500x500.jpg',
+        price: 10
       },
       {
         id: 21,
-        name: 'Brown Shearling',
-        imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
-        price: 165
+        name: 'Dunlop Guitar Cleaning kit',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Formula-65-Guitar-Tech-Kit/425278000000000-00-500x500.jpg',
+        price: 15
       },
       {
         id: 22,
-        name: 'Tan Trench',
-        imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-        price: 185
+        name: 'Audio Cable 1/4"',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Advantage-Instrument-Cable-Angled-Straight-5-ft.-Black/J39079000004001-00-500x500.jpg',
+        price: 15
       }
     ]
   },
@@ -159,45 +159,45 @@ const SHOP_DATA = {
     items: [
       {
         id: 23,
-        name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-        price: 25
+        name: 'Fender: Player Precision Bass',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Player-Precision-Bass-Maple-Fingerboard-Limited-Edition-Ocean-Turquoise/L57533000001000-00-500x500.jpg',
+        price: 824
       },
       {
         id: 24,
-        name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
-        price: 20
+        name: 'Fender: Geddy Lee Signature Bass',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Geddy-Lee-Signature-Jazz-Bass-3-Color-Sunburst/H89886000002000-00-500x500.jpg',
+        price: 1200
       },
       {
         id: 25,
-        name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
-        price: 80
+        name: 'Fender: 60th Anniversary Pau Ferro Bass',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/60th-Anniversary-Road-Worn-60s-Jazz-Bass-Pau-Ferro-Fingerboard-Olympic-White/L72266000003000-00-500x500.jpg',
+        price: 1300
       },
       {
         id: 26,
-        name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
-        price: 80
+        name: 'Hofner: Ignition Bass',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/L81864000001000-04-500x500.jpg',
+        price: 399
       },
       {
         id: 27,
-        name: 'Striped Sweater',
-        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
-        price: 45
+        name: 'Rickenbacker 4003 Bass Mapleglo',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/4003-Bass-Mapleglo/513600000204000-00-500x500.jpg',
+        price: 800
       },
       {
         id: 28,
-        name: 'Yellow Track Suit',
-        imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
-        price: 135
+        name: 'Gretsch G2220 Bass',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/G2220-Electromatic-Junior-Jet-Bass-II-Short-Scale-Bass-Black/L13409000004000-00-500x500.jpg',
+        price: 300
       },
       {
         id: 29,
-        name: 'White Blouse',
-        imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-        price: 20
+        name: 'Epiphone Jack Casady Bass',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Jack-Casady-Bass-Sparkling-Burgundy/518245000001000-00-500x500.jpg',
+        price: 800
       }
     ]
   },
@@ -208,15 +208,15 @@ const SHOP_DATA = {
     items: [
       {
         id: 30,
-        name: 'Camo Down Vest',
-        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-        price: 25
+        name: 'Fender: Mustang Micro Headphone Amp',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Mustang-Micro-Guitar-Headphone-Amp-Black/L81703000001000-00-500x500.jpg',
+        price: 120
       },
       {
         id: 31,
-        name: 'Floral T-shirt',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-        price: 20
+        name: 'Fender: Tone Mster Twin Reverb',
+        imageUrl: 'https://media.musiciansfriend.com/is/image/MMGS7/Tone-Master-Twin-Reverb-200W-2x12-Guitar-Combo-Amp-Black/L63371000001000-00-500x500.jpg',
+        price: 1000
       },
       {
         id: 32,
