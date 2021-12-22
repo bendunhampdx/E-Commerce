@@ -124,3 +124,4 @@ import 'firebase/compat/auth';
 Begin for the day
 
 12/21/21: researching CSS in JS
+Quit For the day
