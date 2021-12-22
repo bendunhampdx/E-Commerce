@@ -5,7 +5,7 @@ export const CollectionItemContainer = styled.div`
   width: 22vw;
   display: flex;
   flex-direction: column;
-  height: 450px;
+  height: 600px;
   align-items: center;
   position: relative;
   &:hover {
@@ -29,10 +29,10 @@ export const AddButton = styled(CustomButton)`
 
 export const BackgroundImage = styled.div`
   width: 100%;
-  height: 95%;
+  height: 75%;
   background-size: cover;
   background-position: center;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   background-image: ${({ imageUrl }) => `url(${imageUrl})`};
 `;
 
