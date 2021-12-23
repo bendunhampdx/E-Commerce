@@ -11,7 +11,7 @@ This single-page web app is an online store-front for the fake company CRWN Guit
 * JavaScript
 * Node.js
 * CSS
-* SaaS
+* SASS
 * Firebase/Firestore
 * Stripe
 * Redux
