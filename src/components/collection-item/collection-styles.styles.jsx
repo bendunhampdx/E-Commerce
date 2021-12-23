@@ -2,10 +2,10 @@ import styled from 'styled-components';
 import CustomButton from '../custom-button/custom-button.component';
 
 export const CollectionItemContainer = styled.div`
-  width: 100%;
+  width: 85%;
   display: flex;
   flex-direction: column;
-  height: 600px;
+  height: 500px;
   align-items: center;
   position: relative;
   &:hover {
