@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import CustomButton from '../custom-button/custom-button.component';
 
 export const CollectionItemContainer = styled.div`
-  width: 85%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   height: 500px;
@@ -28,7 +28,7 @@ export const AddButton = styled(CustomButton)`
 `;
 
 export const BackgroundImage = styled.div`
-  width: 100%;
+  width: 85%;
   height: 75%;
   background-size: cover;
   background-position: center;
@@ -37,7 +37,7 @@ export const BackgroundImage = styled.div`
 `;
 
 export const CollectionFooterContainer = styled.div`
-  width: 100%;
+  width: 70%;
   height: 5%;
   display: flex;
   justify-content: space-between;
