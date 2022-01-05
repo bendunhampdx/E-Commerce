@@ -28,8 +28,8 @@ export const AddButton = styled(CustomButton)`
 `;
 
 export const BackgroundImage = styled.div`
-  width: 85%;
-  height: 75%;
+  width: 90%;
+  height: 85%;
   background-size: cover;
   background-position: center;
   margin-bottom: 10px;
